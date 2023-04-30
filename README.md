@@ -1,6 +1,6 @@
 <!--[![MasterHead]()]-->
 <h1 align="center">Hello 👋 There, I'm Michael Ikebude</h1>
-<h3 align="center">A Full Stack Developer with expertise in Frontend Development, Mobile Development, Backend Development, and UI Design. A MERN Developer.</h3>
+<h3 align="center">A Fullstack Developer with expertise in Frontend Development, Mobile Development, Backend Development, and UI Design. A MERN Developer.</h3>
 <img align="right" width="250" alt="Boy Codes" src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/16791/blue_boy_typing_nothought.gif" />
 
 <p align="left"> <a href="https://twitter.com/ikebudemichael" target="blank"><img src="https://img.shields.io/twitter/follow/ikebudemichael?logo=twitter&style=for-the-badge" alt="ikebudemichael" /></a> </p>
