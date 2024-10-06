@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ikebudemichael" target="blank"><img src="https://img.shields.io/twitter/follow/ikebudemichael?logo=twitter&style=for-the-badge" alt="ikebudemichael" /></a> </p>
 
-- 💬 Ask me about **Dart, Flutter, Javascript.**
+- 💬 Ask me about **Dart, Flutter, Javascript, TypeScript.**
 
 - 📫 How to reach me **ikebudemichael@gmail.com**
 
